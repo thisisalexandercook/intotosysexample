@@ -1,2 +1,2 @@
 def myFunction():
-	pass
+	print("hello class")
